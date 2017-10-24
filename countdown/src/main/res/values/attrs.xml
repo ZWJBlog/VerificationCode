@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountdownButton">
+        <attr name="btn_Color" format="color"></attr>
+        <attr name="btn_background" format="color"></attr>
+        <attr name="btn_text" format="string"></attr>
+    </declare-styleable>
+</resources>
